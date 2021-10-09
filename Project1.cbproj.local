@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.237,=C:\Users\Андрей\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.385,C:\Users\Андрей\Desktop\Диплом С++\Unit2.cpp=C:\Users\Андрей\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.864,=C:\Users\Андрей\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.125,=C:\Users\Андрей\Desktop\Диплом С++\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.015,=C:\Users\Андрей\Desktop\Диплом С++\Unit6.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.506,C:\Users\Андрей\Desktop\Диплом С++\Unit1.h=C:\Users\Андрей\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.902,C:\Users\Андрей\Desktop\Диплом С++\Project1PCH1.h=C:\Users\Андрей\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.506,C:\Users\Андрей\Desktop\Диплом С++\Unit1.dfm=C:\Users\Андрей\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.385,C:\Users\Андрей\Desktop\Диплом С++\Unit2.h=C:\Users\Андрей\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.385,C:\Users\Андрей\Desktop\Диплом С++\Unit2.dfm=C:\Users\Андрей\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.506,C:\Users\Андрей\Desktop\Диплом С++\Unit1.cpp=C:\Users\Андрей\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.431,=C:\Users\Андрей\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.811,=C:\Users\Андрей\Desktop\Диплом С++\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.000,C:\Users\Андрей\Desktop\Диплом С++\Project1.cbproj=C:\Users\Андрей\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.570,=C:\Users\Андрей\Desktop\Диплом С++\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.779,=C:\Users\Андрей\Desktop\Диплом С++\Unit7.cpp</Transaction>
+    <Transaction>2018.03.21 12:29:15.160,=C:\Users\Андрей\Desktop\Диплом С++\md5.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
